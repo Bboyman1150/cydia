@@ -1,0 +1,14 @@
+Package: com.iphonecake.appcake_ios6
+Name: AppCake iOS 6
+Version: 0.0
+Architecture: iphoneos-arm
+Description: It's AppCake but for iOS 6
+Maintainer: bboyman1150@gmail.com
+Author: iphonecake.com
+Section: Tweaks
+Depends: 
+Filename: debs/AppCake_ios6.deb
+Size: 4595982
+MD5sum: 274130448516e811e1342bfad2b54ee1
+SHA1: cf6b50bafbe0d8d656a7f74001d39ffd6b01c4f8
+SHA256: 0c57e720c5cb92e3c40167affbc345834bc57f1f37120d3bfe079fd352d7c2f0
